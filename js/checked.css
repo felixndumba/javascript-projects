@@ -1,0 +1,14 @@
+body{
+    background-color:grey;
+
+}
+#mysubmit{
+    background-color: rgb(128, 128, 128);
+    transition:background-color;0.25;
+    cursor: pointer;
+    border-radius:10px 10px;
+    font-size 1.5em;
+}
+#mysubmit:hover{
+    background-color: deepskyblue;
+}

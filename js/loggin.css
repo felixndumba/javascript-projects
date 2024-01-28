@@ -1,0 +1,35 @@
+body{
+display: block;
+text-align: center;
+background-color:black;
+margin: auto;
+
+}
+#username{
+    font-size: 1em;
+    font-family: verdana;
+    color: aliceblue;
+
+}
+#password{
+    font-size: 1em;
+    font-family: verdana;
+    color: aliceblue;
+}
+#loginbtn{
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 1em;
+    font-family: verdana;
+    cursor: pointer;
+    transition:background-color;0.25;
+}
+#loginbtn:hover{
+    background-color: deepskyblue;
+}
+#h1{
+    color: aliceblue;
+    text-align: left;
+    font-size:1em;
+    font-family: verdana;
+}
